@@ -1,0 +1,3 @@
+selecionar la carpeta en el que se desea instalar react
+npx create-react-app react-course
+para despues compartirlo se ejecuta npm run build y esa carpeta se comparte
